@@ -5,4 +5,4 @@ Instructions:
 4. Ensure the baud rate is set to 115200 in the Serial Monitor.
 5. Upload sketch to the ESP32-CAM via USB. If errors occur, consider updating the board's drivers using "CH431 SER Driver.exe".
 6. Once connected, go to the URL displayed in the Serial Monitor.
-7. In "YOLO11 Model.py", set the source equal to the URL including the video stream port number.
+7. Open "YOLO11 Model.py" and set the source equal to the URL including the video stream port number.
